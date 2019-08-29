@@ -6,7 +6,7 @@ The visualization is done with Tableau. To see the full project with interactive
 
 [Taleau Story: How We Can Make Toronto Steerts Safer](https://public.tableau.com/shared/2Q4WWFPH3?:display_count=yes&:origin=viz_share_link)
 
-![KSI Map](C:\Users\何宏亚\Desktop\Business\Github\KSI.JPG)
+![KSI Map](https://user-images.githubusercontent.com/46429585/63954222-56765e00-cab5-11e9-8a05-8b786e60a1f5.JPG)
 
 
 
