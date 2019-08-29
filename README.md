@@ -1,4 +1,4 @@
-# How-We-Can-Make-Toronto-Streets-Safer
+# How We Can Make Toronto Streets Safer
 
 This project explores the Killed and Seriously Injured (KSI) dataset of City of Toronto, finds patterns of traffic collisions, and draw insightful recommendations for the city to make its streets safer in the future.
 
